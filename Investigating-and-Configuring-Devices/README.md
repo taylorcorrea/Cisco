@@ -58,8 +58,6 @@ O objetivo foi **entender a estrutura física de uma rede**, identificar equipam
   end
   ```
 
----
-
 Parte 6 – Exploração da Rede
 Navegação entre modos Físico e Lógico para observar diferenças de topologia.
 
@@ -67,7 +65,7 @@ Identificação de dispositivos conectados e suas funções na rede.
 
 ---
 
-🛠 Ferramentas Utilizadas
+## 🛠 Ferramentas Utilizadas
 Cisco Packet Tracer (Modo Físico e Lógico)
 
 Cabos: Cobre Direto, Console, USB Console
@@ -76,12 +74,12 @@ Dispositivos: Roteador ISR4331, Switches, Access Point, PCs e Laptops
 
 ---
 
-📷 Prints do Projeto
+## 📷 Prints do Projeto
 (Adicionar capturas de tela mostrando a topologia no modo físico e lógico)
 
 ---
 
-📚 Aprendizados
+## 📚 Aprendizados
 Diferença entre conexões físicas e lógicas no Packet Tracer.
 
 Estrutura e organização de um rack de rede.
