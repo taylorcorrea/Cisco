@@ -1,4 +1,4 @@
-# 📚 Repositório Cisco – Projetos de Aprendizado
+# 📚 Projetos de Aprendizado Cisco
 
 Bem-vindo ao meu repositório de projetos da **Cisco Networking Academy**!  
 Aqui compartilho meus exercícios e simulações feitos no **Packet Tracer**, documentando o aprendizado passo a passo.
